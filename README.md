@@ -4,7 +4,7 @@
   <img alt="Greetings" src="./assets/hello-l.gif" align="center" style="width: 100%">
 </picture>
 
-### <div align="center">I'm Mads, a MSc student in Mathematics and Statistics at [Aalborg University](https://www.aau.dk/) </div>  
+### <div align="center">I'm Mads, an MSc student in Mathematics and Statistics at [Aalborg University](https://www.aau.dk/) </div>  
 
 - ⚙️ I’m currently conducting research on Transformer models in the field of genetics
   
