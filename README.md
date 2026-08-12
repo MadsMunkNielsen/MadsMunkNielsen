@@ -61,39 +61,5 @@
 </a>  
 </div>
 
-## Github Stats  
-<div align="center"> 
-	<picture>
-		<source 
-		  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsMunkNielsen&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"
-		  media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsMunkNielsen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99"
-		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadsMunkNielsen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99" />
-	</picture>
-	<picture>
-		<source 
-		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMunkNielsen&theme=react&line_height=40&hide=css%2croff"
-		  media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMunkNielsen&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css%2croff"
-		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsMunkNielsen&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css%2croff" />
-	</picture>
-</div
-
-
-
-<br/>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MadsMunkNielsen&&style=flat-square&color=0e7b99" align="center" style="width: 20%"/>
-</div>  
 
 ----
