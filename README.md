@@ -47,6 +47,30 @@
 </table>
 </div>
 
+## My Skill Set
+
+<div align="center">
+<table>
+<tr>
+  <th align="center">Backend</th>
+  <th align="center">DevOps</th>
+</tr>
+<tr>
+<td valign="center" width="50%" align="center">
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" /></a>
+<a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+</td>
+<td valign="center" width="50%" align="center">
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+</td>
+</tr>
+</table>
+</div>
 
 ## Connect with me
 
