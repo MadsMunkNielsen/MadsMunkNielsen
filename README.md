@@ -52,12 +52,12 @@
 
 <p align="center">
   <a href="https://github.com/MadsMunkNielsen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
   <a href="https://linkedin.com/in/madsmunknielsen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
   <a href="mailto:madsmn@math.aau.dk">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
 </p>
