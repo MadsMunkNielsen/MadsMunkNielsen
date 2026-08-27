@@ -53,9 +53,11 @@
 <p align="center">
   <a href="https://github.com/MadsMunkNielsen" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
-  <a href="mailto:madsmn@math.aau.dk">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://linkedin.com/in/madsmunknielsen" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:madsmn@math.aau.dk">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
