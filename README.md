@@ -59,5 +59,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-----
