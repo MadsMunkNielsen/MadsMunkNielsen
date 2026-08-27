@@ -50,6 +50,12 @@
 
 ## Connect with me
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <div align="center">
 
 <a href="https://github.com/MadsMunkNielsen" target="_blank">
