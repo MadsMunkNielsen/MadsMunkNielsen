@@ -51,23 +51,13 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://github.com/MadsMunkNielsen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="mailto:madsmn@math.aau.dk">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://linkedin.com/in/madsmunknielsen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<div align="center">
-
-<a href="https://github.com/MadsMunkNielsen" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="mailto:madnie19@student.aau.dk">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://linkedin.com/in/madsmunknielsen" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-</div>
 
 ----
