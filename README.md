@@ -4,6 +4,8 @@
   <img alt="Greetings" src="./assets/hello-l.gif" align="center" style="width: 100%">
 </picture>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mads+Munk+Nielsen;Statistician" alt="Typing SVG" /></a>
+
 ### <div align="center">I'm Mads, a Research Assistant at Aalborg University, Department of Mathematical Sciences </div>  
 
 - 🔬 I'm researching transformer architectures and their applications in deep learning, with a focus on Bayesian methods and probabilistic modeling
