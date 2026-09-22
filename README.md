@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mads+Munk+Nielsen;Statistician" alt="Typing SVG" /></a>
 
-### <div align="center">I'm Mads, a Research Assistant at Aalborg University, Department of Mathematical Sciences </div>  
+### <div align="center">Research Assistant at Aalborg University, Department of Mathematical Sciences </div>  
 
 - 🔬 I'm researching transformer architectures and their applications in deep learning, with a focus on Bayesian methods and probabilistic modeling
 https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
 ## Publications
 
 <details>
-<summary>Adapting SNPbag for Phenotype Prediction: A Transformer-Based Approach to Polygenic Risk <a href="https://projekter.aau.dk/adapting-snpbag-for-phenotype-prediction-a-transformer-based-approach-to-polygenic-risk-4ab714f5.html" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="24" align="center" /></a></summary>
+<summary>Adapting SNPbag for Phenotype Prediction: A Transformer-Based Approach to Polygenic Risk <a href="https://projekter.aau.dk/adapting-snpbag-for-phenotype-prediction-a-transformer-based-approach-to-polygenic-risk-4ab714f5.html" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="28" align="center" /></a></summary>
 
 ```bibtex
 @article{MMN26,
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
 </details>
 
 <details>
-<summary>Combining genome-wide polygenic scores with registry data for colorectal cancer risk-based screening (2026) <a href="https://doi.org/10.1038/s41416-026-03532-9" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/BJC-Light.svg" width="24" align="center" /></a></summary>
+<summary>Combining genome-wide polygenic scores with registry data for colorectal cancer risk-based screening (2026) <a href="https://doi.org/10.1038/s41416-026-03532-9" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/BJC-Light.svg" width="28" align="center" /></a></summary>
 
 ```bibtex
 @article{Nhr2026,
@@ -98,8 +98,6 @@ https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
 }
 ```
 </details>
-
-<br>
 
 <div align="center">
 
