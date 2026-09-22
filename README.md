@@ -25,6 +25,8 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
+<a href="https://pola.rs/" target="_blank"><img src="[https://skillicons.dev/icons?i=r]https://go-skill-icons.vercel.app/api/icons?i=polars" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
