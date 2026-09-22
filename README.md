@@ -26,7 +26,10 @@
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
 <a href="https://pola.rs/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
+<a href="https://developer.nvidia.com/cuda/toolkit" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda&theme=light" /></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
@@ -45,6 +48,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=light" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=light" /></a>
+<a href="https://www.overleaf.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=overleaf&theme=light" /></a>
 <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=md&theme=light" /></a>
 </td>
 </tr>
