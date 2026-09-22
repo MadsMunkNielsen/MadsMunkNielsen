@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
 ## Publications
 
 <details>
-<summary>Adapting SNPbag for Phenotype Prediction: A Transformer-Based Approach to Polygenic Risk <a href="https://projekter.aau.dk/adapting-snpbag-for-phenotype-prediction-a-transformer-based-approach-to-polygenic-risk-4ab714f5.html" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="28" align="center" /></a></summary>
+<summary>Adapting SNPbag for Phenotype Prediction: A Transformer-Based Approach to Polygenic Risk (2026) <a href="https://projekter.aau.dk/adapting-snpbag-for-phenotype-prediction-a-transformer-based-approach-to-polygenic-risk-4ab714f5.html" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/AAU-Light.svg" width="28" align="center" /></a></summary>
 
 ```bibtex
 @article{MMN26,
