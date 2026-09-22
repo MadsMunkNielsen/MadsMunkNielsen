@@ -33,7 +33,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" /></a>
 <a href="https://julialang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=julia&theme=light" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/HuggingFace-Light.svg" width="48" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=light" /></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=light" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&theme=light" /></a>
 </td>
 <td valign="center" width="50%" align="center">
