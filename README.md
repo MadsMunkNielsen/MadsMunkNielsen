@@ -6,7 +6,6 @@
 ### <div align="center">Research Assistant at Aalborg University, Department of Mathematical Sciences </div>  
 
 - 🔬 I'm researching transformer architectures and their applications in deep learning, with a focus on Bayesian methods and probabilistic modeling
-https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/
 - 🛠️ I build and train models using PyTorch and TensorFlow, working across the full pipeline from statistical theory to implementation
 
   
