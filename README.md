@@ -23,7 +23,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
-<a href="https://pola.rs/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/Polars-Light.svg" /></a>
+<a href="https://pola.rs/" target="_blank"><img src="https://raw.githubusercontent.com/MadsMunkNielsen/skill-icons/main/icons/Polars-Light.svg" width="48" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" /></a>
 <a href="https://developer.nvidia.com/cuda/toolkit" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda&theme=light" /></a>
